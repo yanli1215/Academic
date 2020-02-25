@@ -1,0 +1,137 @@
+{
+	"Campus Loop - Blue":	{
+		"loops":		true,
+		"bus route":	[
+			{
+				"name":			"NIE, Opp. LWN Library",
+				"location":		[479, 288]
+			},
+			{
+				"name":			"Opp. Hall 3 & 16",
+				"location":		[594, 206]
+			},
+			{
+				"name":			"Opp. Hall 14 & 15",
+				"location":		[777, 115]
+			},
+			{
+				"name":			"Opp Nanyang Crescent Hall",
+				"location":		[990, 148]
+			},
+			{
+				"name":			"Opp. Hall 10 & 11",
+				"location":		[1095, 309]
+			},
+			{
+				"name":			"Nanyang Heights, Opp. Hall 8",
+				"location":		[865, 414]
+			},
+			{
+				"name":			"Hall 6, Opp. Hall 2",
+				"location":		[739, 603]
+			},
+			{
+				"name":			"Opp. Hall 4",
+				"location":		[550, 722]
+			},
+			{
+				"name":			"Opp. Innovation Centre",
+				"location":		[364, 685]
+			},
+			{
+				"name":			"Opp. SPMS",
+				"location":		[232, 611]
+			},
+			{
+				"name":			"Opp. WKWSCI",
+				"location":		[135, 502]
+			},
+			{
+				"name":			"Opp. CEE",
+				"location":		[286, 292]
+			}
+		]
+	},
+	"Campus Loop - Red":	{
+		"loops":		true,
+		"bus route":	[
+			{
+				"name":			"LWN Library, Opp. NIE",
+				"location":		[484, 297]
+			},
+			{
+				"name":			"SBS",
+				"location":		[241, 367]
+			},
+			{
+				"name":			"WKWSCI",
+				"location":		[143, 508]
+			},
+			{
+				"name":			"Hall 7",
+				"location":		[166, 707]
+			},
+			{
+				"name":			"Innovation Centre",
+				"location":		[362, 697]
+			},
+			{
+				"name":			"Hall 4",
+				"location":		[550, 742]
+			},
+			{
+				"name":			"Hall 1 (Blk 18)",
+				"location":		[716, 727]
+			},
+			{
+				"name":			"Food Court 2",
+				"location":		[754, 493]
+			},
+			{
+				"name":			"Hall 8 & 9",
+				"location":		[884, 381]
+			},
+			{
+				"name":			"Hall 11",
+				"location":		[1088, 299]
+			},
+			{
+				"name":			"Grad Hall 1 & 2",
+				"location":		[1152, 239]
+			},
+			{
+				"name":			"Nanyang Crescent Hall",
+				"location":		[1008, 163]
+			},
+			{
+				"name":			"Hall 12 & 13",
+				"location":		[668, 123]
+			}
+		]
+	},
+	"Campus Rider":	{
+		"loops":		false,
+		"bus route":	[
+			{
+				"name":			"Hall 1 (Blk 18)",
+				"location":		[716, 727]
+			},
+			{
+				"name":			"Food Court 2",
+				"location":		[754, 493]
+			},
+			{
+				"name":			"Student Services Centre",
+				"location":		[474, 506]
+			},
+			{
+				"name":			"TCT LT, Opp. Admin Bldg",
+				"location":		[360, 454]
+			},
+			{
+				"name":			"Opp. Food Court 2",
+				"location":		[773, 482]
+			}
+		]
+	}
+}

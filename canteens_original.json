@@ -1,0 +1,659 @@
+{
+	"Food Court 1" : {
+		"location":			[676, 598],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Mixed Rice":	{
+				"type":		["Mixed Rice"],
+				"votes":	20,
+				"food":		{
+					"2 Meat + 1 Vegetable":	{
+						"price":		3.3,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"1 Meat + 2 Vegetables":	{
+						"price":		2.70,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"3 Vegetables":	{
+						"price":		2.50,
+						"vegetarian":	true,
+						"halal":		false
+					}
+				}
+			},
+			"Japanese/Western":	{
+				"type":		["Japanese", "Western"],
+				"votes":	4,
+				"food":		{
+					"Chicken Katsu Don":	{
+						"price":		5.5,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Teriyaki Chicken":	{
+						"price":		4.8,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Aglio Olio":	{
+						"price":		5.5,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			}
+		}
+	},
+	"Food Court 2" : {
+		"location": 		[735, 500],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Roasted Delights":	{
+				"type":		["Chicken Rice"],
+				"votes":	12,
+				"food":		{
+					"Roasted Chicken Rice":	{
+						"price":		2.50,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Steamed Chicken Rice":	{
+						"price":		2.50,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Lemon Chicken Rice":	{
+						"price":		3,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			},
+			"Korean/Japanese":	{
+				"type":		["Korean", "Japanese"],
+				"votes":	16,
+				"food":		{
+					"Chicken Omelette Rice":	{
+						"price":		4.80,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Chicken Cutlet Rice":	{
+						"price":		4.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Kimchi Fried Rice":	{
+						"price":		5,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			},
+			"Malay":	{
+				"type":		["Malay"],
+				"votes":	15,
+				"food":		{
+					"Ayam Penyet":	{
+						"price":		4.50,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Nasi Lemak":	{
+						"price":		2.50,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			}
+		}
+	},
+	"Food Court 9" : {
+		"location": 		[922, 315],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Mixed Rice":	{
+				"type":		["Mixed Rice"],
+				"votes":	15,
+				"food":		{
+					"2 Meat + 1 Vegetable":	{
+						"price":		3.20,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"1 Meat + 2 Vegetables":	{
+						"price":		2.80,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"3 Vegetables":	{
+						"price":		2.60,
+						"vegetarian":	true,
+						"halal":		false
+					}
+				}
+			},
+			"Japanese":	{
+				"type":		["Japanese"],
+				"votes":	26,
+				"food":		{
+					"Salmon Bento Set":	{
+						"price":		5.20,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Chicken Cutlet Rice":	{
+						"price":		4.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Chicken Ramen":	{
+						"price":		5.10,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			}
+		}
+	},
+	"Food Court 11" : {
+		"location": 		[1082, 246],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Mixed Rice":	{
+				"type":		["Mixed Rice"],
+				"votes":	21,
+				"food":		{
+					"2 Meat + 1 Vegetable":	{
+						"price":		3.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"1 Meat + 2 Vegetables":	{
+						"price":		2.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"3 Vegetables":	{
+						"price":		2.20,
+						"vegetarian":	true,
+						"halal":		false
+					}
+				}
+			},
+			"Ramen":	{
+				"type":		["Japanese"],
+				"votes":	34,
+				"food":		{
+					"Beef Ramen":	{
+						"price":		5.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Pork Ramen":	{
+						"price":		5.20,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Chicken Ramen":	{
+						"price":		4.90,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			}
+		}
+	},
+	"Food Court 13" : {
+		"location": 		[682, 146],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 22:00:00",
+		"stalls":	{
+			"Japanese/Korean":	{
+				"type":		["Japanese", "Korean"],
+				"votes":	21,
+				"food":		{
+					"Tonkatsu Ramen":	{
+						"price":		5.80,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Saba Fish Set":	{
+						"price":		5.50,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			},
+			"Western":	{
+				"type":		["Western"],
+				"votes":	36,
+				"food":		{
+					"Salted Egg Chicken Cutlet":	{
+						"price":		6,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Chicken Chop":	{
+						"price":		5.50,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			}
+		}
+	},
+	"Food Court 14" : {
+		"location": 		[792, 153],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Chicken Rice":	{
+				"type":		["Chicken Rice"],
+				"votes":	5,
+				"food":		{
+					"Roasted Chicken Rice":	{
+						"price":		2,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Steamed Chicken Rice":	{
+						"price":		2,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Lemon Chicken Rice":	{
+						"price":		2.5,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			},
+			"Western":	{
+				"type":		["Western"],
+				"votes":	25,
+				"food":		{
+					"Chicken Chop":	{
+						"price":		5.2,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Fish and Chips":	{
+						"price":		4.8,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Aglio Olio":	{
+						"price":		5.5,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			}
+		}
+	},
+	"Food Court 16" : {
+		"location": 		[616, 214],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Japanese":	{
+				"type":		["Japanese"],
+				"votes":	35,
+				"food":		{
+					"Black Tonkotsu Don":	{
+						"price":		6,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Curry Katsu":	{
+						"price":		5.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Beef Ramen":	{
+						"price":		5.80,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			},
+			"Chicken Rice":	{
+				"type":		["Chicken Rice"],
+				"votes":	21,
+				"food":		{
+					"Roasted Chicken Rice":	{
+						"price":		2.30,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Steamed Chicken Rice":	{
+						"price":		2.30,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Lemon Chicken Rice":	{
+						"price":		2.80,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			}
+		}
+	},
+	"Foodgle Food Court" : {
+		"location": 		[1016, 176],
+		"opening time":		"2018-01-01 10:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Chicken Rice":	{
+				"type":		["Chicken Rice"],
+				"votes":	29,
+				"food":		{
+					"Roasted Chicken Rice":	{
+						"price":		2.20,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Steamed Chicken Rice":	{
+						"price":		2.20,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Lemon Chicken Rice":	{
+						"price":		3,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			},
+			"Mini Wok":	{
+				"type":		["Mini Wok"],
+				"votes":	32,
+				"food":		{
+					"Fried Rice":	{
+						"price":		3.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Hokkien Mee":	{
+						"price":		3.30,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Hor Fun":	{
+						"price":		4.20,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Char Kway Teow":	{
+						"price":		3.30,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			}
+		}
+	},
+	"North Hill Food Court" : {
+		"location": 		[1140, 376],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Mixed Rice":	{
+				"type":		["Mixed Rice"],
+				"votes":	20,
+				"food":		{
+					"2 Meat + 1 Vegetable":	{
+						"price":		3.40,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"1 Meat + 2 Vegetables":	{
+						"price":		2.80,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"3 Vegetables":	{
+						"price":		2.30,
+						"vegetarian":	true,
+						"halal":		false
+					}
+				}
+			},
+			"Chicken Rice":	{
+				"type":		["Chicken Rice"],
+				"votes":	18,
+				"food":		{
+					"Roasted Chicken Rice":	{
+						"price":		2.50,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Steamed Chicken Rice":	{
+						"price":		2.50,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Lemon Chicken Rice":	{
+						"price":		2.80,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			}
+		}
+	},
+	"Pioneer Food Court" : {
+		"location": 		[771, 734],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 19:00:00",
+		"stalls":	{
+			"Japanese":	{
+				"type":		["Japanese"],
+				"votes":	19,
+				"food":		{
+					"Japanese Omelette Rice":	{
+						"price":		4.8,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Japanese Curry Rice":	{
+						"price":		5.10,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			},
+			"Nasi Lemak":	{
+				"type":		["Malay"],
+				"votes":	23,
+				"food":		{
+					"Nasi Lemak":	{
+						"price":		2,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Nasi Ayam":	{
+						"price":		2.20,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Mee Goreng":	{
+						"price":		2.10,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			}
+		}
+	},
+	"North Spine Food Court" : {
+		"location": 		[410, 323],
+		"opening time":		"2018-01-01 06:00:00",
+		"closing time":		"2018-01-01 21:00:00",
+		"stalls":	{
+			"Mini Wok":	{
+				"type":		["Mini Wok"],
+				"votes":	32,
+				"food":		{
+					"Prawn Fried Rice":	{
+						"price":		3.70,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Sambal Fried Rice":	{
+						"price":		3.80,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Hor Fun":	{
+						"price":		4.80,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Kung Bao Chicken Rice":	{
+						"price":		4.80,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			},
+			"Japanese":	{
+				"type":		["Japanese"],
+				"votes":	15,
+				"food":		{
+					"Japanese Curry Rice":	{
+						"price":		3.7,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Oyakodon":	{
+						"price":		4.5,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			},
+			"Western":	{
+				"type":		["Western"],
+				"votes":	9,
+				"food":		{
+					"Spaghetti":	{
+						"price":		5.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Chicken Chop":	{
+						"price":		5.20,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Carbonara":	{
+						"price":		5.50,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			},
+			"Chicken Rice":	{
+				"type":		["Chicken Rice"],
+				"votes":	10,
+				"food":		{
+					"Roasted Chicken Rice":	{
+						"price":		3,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Steamed Chicken Rice":	{
+						"price":		3,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Lemon Chicken Rice":	{
+						"price":		3,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			}
+		}
+	},
+	"Koufu" : {
+		"location": 		[315, 635],
+		"opening time":		"2018-01-01 07:00:00",
+		"closing time":		"2018-01-01 20:00:00",
+		"stalls":	{
+			"Chicken Rice":	{
+				"type":		["Chicken Rice"],
+				"votes":	22,
+				"food":		{
+					"Roasted Chicken Rice":	{
+						"price":		2.20,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Steamed Chicken Rice":	{
+						"price":		2.20,
+						"vegetarian":	false,
+						"halal":		true
+					},
+					"Lemon Chicken Rice":	{
+						"price":		2.80,
+						"vegetarian":	false,
+						"halal":		true
+					}
+				}
+			},
+			"Mixed Rice":	{
+				"type":		["Mixed Rice"],
+				"votes":	21,
+				"food":		{
+					"2 Meat + 1 Vegetable":	{
+						"price":		3.20,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"1 Meat + 2 Vegetables":	{
+						"price":		2.80,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"3 Vegetables":	{
+						"price":		2.30,
+						"vegetarian":	true,
+						"halal":		false
+					}
+				}
+			},
+			"Japanese":	{
+				"type":		["Japanese"],
+				"votes":	30,
+				"food":		{
+					"Japanese Curry Rice":	{
+						"price":		5.50,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Teriyaki Chicken":	{
+						"price":		5.30,
+						"vegetarian":	false,
+						"halal":		false
+					},
+					"Chicken Cutlet":	{
+						"price":		5.20,
+						"vegetarian":	false,
+						"halal":		false
+					}
+				}
+			}
+		}
+	}
+}
